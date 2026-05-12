@@ -1,0 +1,26 @@
+README.md
+  h_53dad1e32c3c71 24,36
+  s_b20f2100843103::t_cadc88b6d822ec 1,9-11,22,25-28,30,34,38
+  s_b20f2100843103::t_e6b722e58b0da6 3,5,13,15-20,32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "b606ec6f44866f80365fd857820f30a6f3aec2c2",
+  "prompts": {},
+  "humans": {
+    "h_53dad1e32c3c71": {
+      "author": "yuremono <5alviaofficinali50@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_b20f2100843103": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "30521265-a795-4ef8-bdd8-089485c3216d",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yuremono <5alviaofficinali50@gmail.com>"
+    }
+  }
+}
