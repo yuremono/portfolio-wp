@@ -1,0 +1,26 @@
+assets/portfolio-tailwind-compat.scss
+  s_b72ac87c810ac3::t_a3b9a97c23f312 14
+assets/portfolio-tailwind-compat.css
+  s_b72ac87c810ac3::t_b42b4327064964 12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "57c8cb264e0199ed16976e6e6fe05bb59e835e93",
+  "prompts": {},
+  "humans": {
+    "h_53dad1e32c3c71": {
+      "author": "yuremono <5alviaofficinali50@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_b72ac87c810ac3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e439a-a4a7-78c3-940b-abda473cddb2",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yuremono <5alviaofficinali50@gmail.com>"
+    }
+  }
+}
