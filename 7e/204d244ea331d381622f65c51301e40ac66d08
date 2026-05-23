@@ -1,0 +1,73 @@
+README.md
+  s_4fa6359932ebbc::t_606667a19e5710 51
+  s_4fa6359932ebbc::t_c03012ce08133e 3,14,20,22,25-29,31,34-38,40,42,44-48,50,53,55-60,62,64-67
+  s_4fa6359932ebbc::t_9eb37edac86a79 23-24,33
+assets/tailwind.css
+  s_4fa6359932ebbc::t_c9a9d83a9784ac 696
+assets/theme.css
+  s_4fa6359932ebbc::t_c9a9d83a9784ac 6427
+.gitignore
+  h_53dad1e32c3c71 4
+  s_4fa6359932ebbc::t_fe9bb4a6588bfb 5-6
+  s_4fa6359932ebbc::t_b0662a1f41f321 20-23
+package.json
+  s_4fa6359932ebbc::t_117808e6ad600c 8
+  s_4fa6359932ebbc::t_2c4c610d7d989d 9
+DEPLOYMENT.md
+  s_4fa6359932ebbc::t_3b65f5bcd936bd 5-8,10,12,36-38,45
+  s_4fa6359932ebbc::t_8b6cfae013a274 63
+  s_4fa6359932ebbc::t_8e7795ea725748 3,13-14,28,47
+  s_4fa6359932ebbc::t_9d814095761754 43
+  s_4fa6359932ebbc::t_61c9476ed4a43f 65-70
+  s_4fa6359932ebbc::t_de5a4f9ff63fa3 11,48-50,52-61,64
+  s_4fa6359932ebbc::t_887bad88b7a187 9,62
+  s_4fa6359932ebbc::t_5f13199e18c702 51
+  s_4fa6359932ebbc::t_a4527404a78108 30,71
+inc/helpers.php
+  s_4fa6359932ebbc::t_315b1b37ebcfec 206-212,218-228,230-232,236-241,245-246
+LOCAL_WP_CLI.md
+  s_4fa6359932ebbc::t_325c672bdaf7f9 1,3-4,16-17,20
+tools/AGENTS.md
+  s_4fa6359932ebbc::t_a49e343141b0e6 20
+  s_4fa6359932ebbc::t_61c9476ed4a43f 1-18,22-43
+  s_4fa6359932ebbc::t_f802ae8c8a06e9 19
+  s_4fa6359932ebbc::t_513be7720fb7fb 21
+AGENTS.md
+  s_4fa6359932ebbc::t_a65b150d217b1f 64
+  s_4fa6359932ebbc::t_07e14b260b4d3f 43-46,49
+  h_53dad1e32c3c71 42,47-48,52,66
+tools/deploy.sh
+  s_4fa6359932ebbc::t_2cf3e29703a19e 81,86,93-96,158,163,170-173
+  s_4fa6359932ebbc::t_6f2bb3fd6ef90f 89-90,101,166-167,178
+  s_4fa6359932ebbc::t_f07248ccc86a15 12-18
+  s_4fa6359932ebbc::t_76219f1ef474b8 10,190-243,247,257-259,271-273
+  s_4fa6359932ebbc::t_0372308257a938 1-9,11,19-80,82-85,87-88,91-92,97-100,102-116,118-157,159-162,164-165,168-169,174-177,179-189,244-245,248-253,260-263,267-270,274-277
+  s_4fa6359932ebbc::t_240206c35f0e72 117
+  s_4fa6359932ebbc::t_553f6dcb37e080 246,254-256,264-266
+UPDATE_TO_PROD.md
+  s_4fa6359932ebbc::t_8e7795ea725748 1-32,34-36,39-44,47-69
+  s_4fa6359932ebbc::t_2d564e5d4004c0 46
+  s_4fa6359932ebbc::t_3c87093921b3ce 37-38
+  s_4fa6359932ebbc::t_a3027dbcee7483 33,45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "7e204d244ea331d381622f65c51301e40ac66d08",
+  "prompts": {},
+  "humans": {
+    "h_53dad1e32c3c71": {
+      "author": "yuremono <5alviaofficinali50@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_4fa6359932ebbc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e532b-b770-71c0-a2b0-a618ee7299b5",
+        "model": "gpt-5.4-mini"
+      },
+      "human_author": "yuremono <5alviaofficinali50@gmail.com>"
+    }
+  }
+}
