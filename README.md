@@ -1,4 +1,4 @@
-# Portfolio Corporate
+# Portfolio-wp
 
 `https://yuremono.github.io/portfolio/`(ReactSPA)を`https://yuremono.com/`(wordpress)に移植しています。
 フロントページ、固定ページ、`work` / `news` の一覧、問い合わせフォーム、SEO 設定をまとめて扱います。
